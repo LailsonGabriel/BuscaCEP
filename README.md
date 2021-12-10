@@ -5,3 +5,7 @@
   
 <h2>Para rodar os testes Cypress siga esses passos</h2>
   <li>em seu terminal <strong>npm run cy:open</strong>(Interfaco) ou <strong>npm run cy:run</strong>(Terminal)</li>
+  
+## Demonstração
+
+![GIF](https://github.com/LailsonGabriel/BuscaCEP-e-frete/blob/main/ezgif.com-gif-maker%20(1).gif)
